@@ -1,0 +1,6 @@
+usr/local/bin/omnix-qt usr/bin
+share/pixmaps/omnix32.xpm usr/share/pixmaps
+share/pixmaps/omnix16.xpm usr/share/pixmaps
+share/pixmaps/omnix128.png usr/share/pixmaps
+debian/omnix-qt.desktop usr/share/applications
+debian/omnix-qt.protocol usr/share/kde4/services/
